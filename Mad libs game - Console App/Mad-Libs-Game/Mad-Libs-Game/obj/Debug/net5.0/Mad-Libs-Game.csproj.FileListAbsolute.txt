@@ -1,0 +1,16 @@
+C:\Users\DELL\Documents\C# practice\Console Applications\Mad libs game\Mad-Libs-Game\Mad-Libs-Game\bin\Debug\net5.0\Mad-Libs-Game.exe
+C:\Users\DELL\Documents\C# practice\Console Applications\Mad libs game\Mad-Libs-Game\Mad-Libs-Game\bin\Debug\net5.0\Mad-Libs-Game.deps.json
+C:\Users\DELL\Documents\C# practice\Console Applications\Mad libs game\Mad-Libs-Game\Mad-Libs-Game\bin\Debug\net5.0\Mad-Libs-Game.runtimeconfig.json
+C:\Users\DELL\Documents\C# practice\Console Applications\Mad libs game\Mad-Libs-Game\Mad-Libs-Game\bin\Debug\net5.0\Mad-Libs-Game.runtimeconfig.dev.json
+C:\Users\DELL\Documents\C# practice\Console Applications\Mad libs game\Mad-Libs-Game\Mad-Libs-Game\bin\Debug\net5.0\Mad-Libs-Game.dll
+C:\Users\DELL\Documents\C# practice\Console Applications\Mad libs game\Mad-Libs-Game\Mad-Libs-Game\bin\Debug\net5.0\ref\Mad-Libs-Game.dll
+C:\Users\DELL\Documents\C# practice\Console Applications\Mad libs game\Mad-Libs-Game\Mad-Libs-Game\bin\Debug\net5.0\Mad-Libs-Game.pdb
+C:\Users\DELL\Documents\C# practice\Console Applications\Mad libs game\Mad-Libs-Game\Mad-Libs-Game\obj\Debug\net5.0\Mad-Libs-Game.csproj.AssemblyReference.cache
+C:\Users\DELL\Documents\C# practice\Console Applications\Mad libs game\Mad-Libs-Game\Mad-Libs-Game\obj\Debug\net5.0\Mad-Libs-Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Documents\C# practice\Console Applications\Mad libs game\Mad-Libs-Game\Mad-Libs-Game\obj\Debug\net5.0\Mad-Libs-Game.AssemblyInfoInputs.cache
+C:\Users\DELL\Documents\C# practice\Console Applications\Mad libs game\Mad-Libs-Game\Mad-Libs-Game\obj\Debug\net5.0\Mad-Libs-Game.AssemblyInfo.cs
+C:\Users\DELL\Documents\C# practice\Console Applications\Mad libs game\Mad-Libs-Game\Mad-Libs-Game\obj\Debug\net5.0\Mad-Libs-Game.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\C# practice\Console Applications\Mad libs game\Mad-Libs-Game\Mad-Libs-Game\obj\Debug\net5.0\Mad-Libs-Game.dll
+C:\Users\DELL\Documents\C# practice\Console Applications\Mad libs game\Mad-Libs-Game\Mad-Libs-Game\obj\Debug\net5.0\ref\Mad-Libs-Game.dll
+C:\Users\DELL\Documents\C# practice\Console Applications\Mad libs game\Mad-Libs-Game\Mad-Libs-Game\obj\Debug\net5.0\Mad-Libs-Game.pdb
+C:\Users\DELL\Documents\C# practice\Console Applications\Mad libs game\Mad-Libs-Game\Mad-Libs-Game\obj\Debug\net5.0\Mad-Libs-Game.genruntimeconfig.cache
