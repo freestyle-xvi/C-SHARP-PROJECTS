@@ -1,0 +1,15 @@
+C:\Users\DELL\Documents\C# practice\Form Applications\Music Player App (.Net Framework)\XVI-TUNES\XVI-TUNES\bin\Debug\XVI-TUNES.exe.config
+C:\Users\DELL\Documents\C# practice\Form Applications\Music Player App (.Net Framework)\XVI-TUNES\XVI-TUNES\bin\Debug\XVI-TUNES.exe
+C:\Users\DELL\Documents\C# practice\Form Applications\Music Player App (.Net Framework)\XVI-TUNES\XVI-TUNES\bin\Debug\XVI-TUNES.pdb
+C:\Users\DELL\Documents\C# practice\Form Applications\Music Player App (.Net Framework)\XVI-TUNES\XVI-TUNES\obj\Debug\XVI-TUNES.csproj.AssemblyReference.cache
+C:\Users\DELL\Documents\C# practice\Form Applications\Music Player App (.Net Framework)\XVI-TUNES\XVI-TUNES\obj\Debug\XVI_TUNES.MusicPlayerApp.resources
+C:\Users\DELL\Documents\C# practice\Form Applications\Music Player App (.Net Framework)\XVI-TUNES\XVI-TUNES\obj\Debug\XVI_TUNES.Properties.Resources.resources
+C:\Users\DELL\Documents\C# practice\Form Applications\Music Player App (.Net Framework)\XVI-TUNES\XVI-TUNES\obj\Debug\XVI-TUNES.csproj.GenerateResource.cache
+C:\Users\DELL\Documents\C# practice\Form Applications\Music Player App (.Net Framework)\XVI-TUNES\XVI-TUNES\obj\Debug\XVI-TUNES.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\C# practice\Form Applications\Music Player App (.Net Framework)\XVI-TUNES\XVI-TUNES\obj\Debug\XVI-TUNES.exe
+C:\Users\DELL\Documents\C# practice\Form Applications\Music Player App (.Net Framework)\XVI-TUNES\XVI-TUNES\obj\Debug\XVI-TUNES.pdb
+C:\Users\DELL\Documents\C# practice\Form Applications\Music Player App (.Net Framework)\XVI-TUNES\XVI-TUNES\bin\Debug\Interop.WMPLib.dll
+C:\Users\DELL\Documents\C# practice\Form Applications\Music Player App (.Net Framework)\XVI-TUNES\XVI-TUNES\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\DELL\Documents\C# practice\Form Applications\Music Player App (.Net Framework)\XVI-TUNES\XVI-TUNES\obj\Debug\Interop.WMPLib.dll
+C:\Users\DELL\Documents\C# practice\Form Applications\Music Player App (.Net Framework)\XVI-TUNES\XVI-TUNES\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\DELL\Documents\C# practice\Form Applications\Music Player App (.Net Framework)\XVI-TUNES\XVI-TUNES\obj\Debug\XVI-TUNES.csproj.ResolveComReference.cache
