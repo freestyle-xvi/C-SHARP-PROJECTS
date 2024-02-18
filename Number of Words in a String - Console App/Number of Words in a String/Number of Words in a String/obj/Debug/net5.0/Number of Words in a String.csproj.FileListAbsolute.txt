@@ -1,0 +1,16 @@
+C:\Users\DELL\Documents\C# practice\Number of Words in a String\Number of Words in a String\Number of Words in a String\bin\Debug\net5.0\Number of Words in a String.exe
+C:\Users\DELL\Documents\C# practice\Number of Words in a String\Number of Words in a String\Number of Words in a String\bin\Debug\net5.0\Number of Words in a String.deps.json
+C:\Users\DELL\Documents\C# practice\Number of Words in a String\Number of Words in a String\Number of Words in a String\bin\Debug\net5.0\Number of Words in a String.runtimeconfig.json
+C:\Users\DELL\Documents\C# practice\Number of Words in a String\Number of Words in a String\Number of Words in a String\bin\Debug\net5.0\Number of Words in a String.runtimeconfig.dev.json
+C:\Users\DELL\Documents\C# practice\Number of Words in a String\Number of Words in a String\Number of Words in a String\bin\Debug\net5.0\Number of Words in a String.dll
+C:\Users\DELL\Documents\C# practice\Number of Words in a String\Number of Words in a String\Number of Words in a String\bin\Debug\net5.0\ref\Number of Words in a String.dll
+C:\Users\DELL\Documents\C# practice\Number of Words in a String\Number of Words in a String\Number of Words in a String\bin\Debug\net5.0\Number of Words in a String.pdb
+C:\Users\DELL\Documents\C# practice\Number of Words in a String\Number of Words in a String\Number of Words in a String\obj\Debug\net5.0\Number of Words in a String.csproj.AssemblyReference.cache
+C:\Users\DELL\Documents\C# practice\Number of Words in a String\Number of Words in a String\Number of Words in a String\obj\Debug\net5.0\Number of Words in a String.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Documents\C# practice\Number of Words in a String\Number of Words in a String\Number of Words in a String\obj\Debug\net5.0\Number of Words in a String.AssemblyInfoInputs.cache
+C:\Users\DELL\Documents\C# practice\Number of Words in a String\Number of Words in a String\Number of Words in a String\obj\Debug\net5.0\Number of Words in a String.AssemblyInfo.cs
+C:\Users\DELL\Documents\C# practice\Number of Words in a String\Number of Words in a String\Number of Words in a String\obj\Debug\net5.0\Number of Words in a String.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\C# practice\Number of Words in a String\Number of Words in a String\Number of Words in a String\obj\Debug\net5.0\Number of Words in a String.dll
+C:\Users\DELL\Documents\C# practice\Number of Words in a String\Number of Words in a String\Number of Words in a String\obj\Debug\net5.0\ref\Number of Words in a String.dll
+C:\Users\DELL\Documents\C# practice\Number of Words in a String\Number of Words in a String\Number of Words in a String\obj\Debug\net5.0\Number of Words in a String.pdb
+C:\Users\DELL\Documents\C# practice\Number of Words in a String\Number of Words in a String\Number of Words in a String\obj\Debug\net5.0\Number of Words in a String.genruntimeconfig.cache
