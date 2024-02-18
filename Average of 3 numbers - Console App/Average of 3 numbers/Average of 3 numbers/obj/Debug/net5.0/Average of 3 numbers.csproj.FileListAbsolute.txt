@@ -1,0 +1,16 @@
+C:\Users\DELL\Documents\C# practice\Average of 3 numbers\Average of 3 numbers\Average of 3 numbers\bin\Debug\net5.0\Average of 3 numbers.exe
+C:\Users\DELL\Documents\C# practice\Average of 3 numbers\Average of 3 numbers\Average of 3 numbers\bin\Debug\net5.0\Average of 3 numbers.deps.json
+C:\Users\DELL\Documents\C# practice\Average of 3 numbers\Average of 3 numbers\Average of 3 numbers\bin\Debug\net5.0\Average of 3 numbers.runtimeconfig.json
+C:\Users\DELL\Documents\C# practice\Average of 3 numbers\Average of 3 numbers\Average of 3 numbers\bin\Debug\net5.0\Average of 3 numbers.runtimeconfig.dev.json
+C:\Users\DELL\Documents\C# practice\Average of 3 numbers\Average of 3 numbers\Average of 3 numbers\bin\Debug\net5.0\Average of 3 numbers.dll
+C:\Users\DELL\Documents\C# practice\Average of 3 numbers\Average of 3 numbers\Average of 3 numbers\bin\Debug\net5.0\ref\Average of 3 numbers.dll
+C:\Users\DELL\Documents\C# practice\Average of 3 numbers\Average of 3 numbers\Average of 3 numbers\bin\Debug\net5.0\Average of 3 numbers.pdb
+C:\Users\DELL\Documents\C# practice\Average of 3 numbers\Average of 3 numbers\Average of 3 numbers\obj\Debug\net5.0\Average of 3 numbers.csproj.AssemblyReference.cache
+C:\Users\DELL\Documents\C# practice\Average of 3 numbers\Average of 3 numbers\Average of 3 numbers\obj\Debug\net5.0\Average of 3 numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Documents\C# practice\Average of 3 numbers\Average of 3 numbers\Average of 3 numbers\obj\Debug\net5.0\Average of 3 numbers.AssemblyInfoInputs.cache
+C:\Users\DELL\Documents\C# practice\Average of 3 numbers\Average of 3 numbers\Average of 3 numbers\obj\Debug\net5.0\Average of 3 numbers.AssemblyInfo.cs
+C:\Users\DELL\Documents\C# practice\Average of 3 numbers\Average of 3 numbers\Average of 3 numbers\obj\Debug\net5.0\Average of 3 numbers.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\C# practice\Average of 3 numbers\Average of 3 numbers\Average of 3 numbers\obj\Debug\net5.0\Average of 3 numbers.dll
+C:\Users\DELL\Documents\C# practice\Average of 3 numbers\Average of 3 numbers\Average of 3 numbers\obj\Debug\net5.0\ref\Average of 3 numbers.dll
+C:\Users\DELL\Documents\C# practice\Average of 3 numbers\Average of 3 numbers\Average of 3 numbers\obj\Debug\net5.0\Average of 3 numbers.pdb
+C:\Users\DELL\Documents\C# practice\Average of 3 numbers\Average of 3 numbers\Average of 3 numbers\obj\Debug\net5.0\Average of 3 numbers.genruntimeconfig.cache
