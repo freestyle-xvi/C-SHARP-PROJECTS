@@ -1,0 +1,16 @@
+C:\Users\DELL\Documents\C# practice\Calculator\Calculator.XVI\Calculator.XVI\bin\Debug\net5.0\Calculator.XVI.exe
+C:\Users\DELL\Documents\C# practice\Calculator\Calculator.XVI\Calculator.XVI\bin\Debug\net5.0\Calculator.XVI.deps.json
+C:\Users\DELL\Documents\C# practice\Calculator\Calculator.XVI\Calculator.XVI\bin\Debug\net5.0\Calculator.XVI.runtimeconfig.json
+C:\Users\DELL\Documents\C# practice\Calculator\Calculator.XVI\Calculator.XVI\bin\Debug\net5.0\Calculator.XVI.runtimeconfig.dev.json
+C:\Users\DELL\Documents\C# practice\Calculator\Calculator.XVI\Calculator.XVI\bin\Debug\net5.0\Calculator.XVI.dll
+C:\Users\DELL\Documents\C# practice\Calculator\Calculator.XVI\Calculator.XVI\bin\Debug\net5.0\ref\Calculator.XVI.dll
+C:\Users\DELL\Documents\C# practice\Calculator\Calculator.XVI\Calculator.XVI\bin\Debug\net5.0\Calculator.XVI.pdb
+C:\Users\DELL\Documents\C# practice\Calculator\Calculator.XVI\Calculator.XVI\obj\Debug\net5.0\Calculator.XVI.csproj.AssemblyReference.cache
+C:\Users\DELL\Documents\C# practice\Calculator\Calculator.XVI\Calculator.XVI\obj\Debug\net5.0\Calculator.XVI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Documents\C# practice\Calculator\Calculator.XVI\Calculator.XVI\obj\Debug\net5.0\Calculator.XVI.AssemblyInfoInputs.cache
+C:\Users\DELL\Documents\C# practice\Calculator\Calculator.XVI\Calculator.XVI\obj\Debug\net5.0\Calculator.XVI.AssemblyInfo.cs
+C:\Users\DELL\Documents\C# practice\Calculator\Calculator.XVI\Calculator.XVI\obj\Debug\net5.0\Calculator.XVI.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\C# practice\Calculator\Calculator.XVI\Calculator.XVI\obj\Debug\net5.0\Calculator.XVI.dll
+C:\Users\DELL\Documents\C# practice\Calculator\Calculator.XVI\Calculator.XVI\obj\Debug\net5.0\ref\Calculator.XVI.dll
+C:\Users\DELL\Documents\C# practice\Calculator\Calculator.XVI\Calculator.XVI\obj\Debug\net5.0\Calculator.XVI.pdb
+C:\Users\DELL\Documents\C# practice\Calculator\Calculator.XVI\Calculator.XVI\obj\Debug\net5.0\Calculator.XVI.genruntimeconfig.cache
