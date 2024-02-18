@@ -1,0 +1,16 @@
+C:\Users\DELL\Documents\C# practice\Area of a rectangle Calculator\Area of a rectangle Calculator\bin\Debug\net5.0\Area of a rectangle Calculator.exe
+C:\Users\DELL\Documents\C# practice\Area of a rectangle Calculator\Area of a rectangle Calculator\bin\Debug\net5.0\Area of a rectangle Calculator.deps.json
+C:\Users\DELL\Documents\C# practice\Area of a rectangle Calculator\Area of a rectangle Calculator\bin\Debug\net5.0\Area of a rectangle Calculator.runtimeconfig.json
+C:\Users\DELL\Documents\C# practice\Area of a rectangle Calculator\Area of a rectangle Calculator\bin\Debug\net5.0\Area of a rectangle Calculator.runtimeconfig.dev.json
+C:\Users\DELL\Documents\C# practice\Area of a rectangle Calculator\Area of a rectangle Calculator\bin\Debug\net5.0\Area of a rectangle Calculator.dll
+C:\Users\DELL\Documents\C# practice\Area of a rectangle Calculator\Area of a rectangle Calculator\bin\Debug\net5.0\ref\Area of a rectangle Calculator.dll
+C:\Users\DELL\Documents\C# practice\Area of a rectangle Calculator\Area of a rectangle Calculator\bin\Debug\net5.0\Area of a rectangle Calculator.pdb
+C:\Users\DELL\Documents\C# practice\Area of a rectangle Calculator\Area of a rectangle Calculator\obj\Debug\net5.0\Area of a rectangle Calculator.csproj.AssemblyReference.cache
+C:\Users\DELL\Documents\C# practice\Area of a rectangle Calculator\Area of a rectangle Calculator\obj\Debug\net5.0\Area of a rectangle Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Documents\C# practice\Area of a rectangle Calculator\Area of a rectangle Calculator\obj\Debug\net5.0\Area of a rectangle Calculator.AssemblyInfoInputs.cache
+C:\Users\DELL\Documents\C# practice\Area of a rectangle Calculator\Area of a rectangle Calculator\obj\Debug\net5.0\Area of a rectangle Calculator.AssemblyInfo.cs
+C:\Users\DELL\Documents\C# practice\Area of a rectangle Calculator\Area of a rectangle Calculator\obj\Debug\net5.0\Area of a rectangle Calculator.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\C# practice\Area of a rectangle Calculator\Area of a rectangle Calculator\obj\Debug\net5.0\Area of a rectangle Calculator.dll
+C:\Users\DELL\Documents\C# practice\Area of a rectangle Calculator\Area of a rectangle Calculator\obj\Debug\net5.0\ref\Area of a rectangle Calculator.dll
+C:\Users\DELL\Documents\C# practice\Area of a rectangle Calculator\Area of a rectangle Calculator\obj\Debug\net5.0\Area of a rectangle Calculator.pdb
+C:\Users\DELL\Documents\C# practice\Area of a rectangle Calculator\Area of a rectangle Calculator\obj\Debug\net5.0\Area of a rectangle Calculator.genruntimeconfig.cache
