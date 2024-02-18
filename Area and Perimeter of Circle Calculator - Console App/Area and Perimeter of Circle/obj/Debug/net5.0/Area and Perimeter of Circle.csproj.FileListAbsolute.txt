@@ -1,0 +1,16 @@
+C:\Users\DELL\Documents\C# practice\Area and Perimeter of Circle Calculator\Area and Perimeter of Circle\bin\Debug\net5.0\Area and Perimeter of Circle.exe
+C:\Users\DELL\Documents\C# practice\Area and Perimeter of Circle Calculator\Area and Perimeter of Circle\bin\Debug\net5.0\Area and Perimeter of Circle.deps.json
+C:\Users\DELL\Documents\C# practice\Area and Perimeter of Circle Calculator\Area and Perimeter of Circle\bin\Debug\net5.0\Area and Perimeter of Circle.runtimeconfig.json
+C:\Users\DELL\Documents\C# practice\Area and Perimeter of Circle Calculator\Area and Perimeter of Circle\bin\Debug\net5.0\Area and Perimeter of Circle.runtimeconfig.dev.json
+C:\Users\DELL\Documents\C# practice\Area and Perimeter of Circle Calculator\Area and Perimeter of Circle\bin\Debug\net5.0\Area and Perimeter of Circle.dll
+C:\Users\DELL\Documents\C# practice\Area and Perimeter of Circle Calculator\Area and Perimeter of Circle\bin\Debug\net5.0\ref\Area and Perimeter of Circle.dll
+C:\Users\DELL\Documents\C# practice\Area and Perimeter of Circle Calculator\Area and Perimeter of Circle\bin\Debug\net5.0\Area and Perimeter of Circle.pdb
+C:\Users\DELL\Documents\C# practice\Area and Perimeter of Circle Calculator\Area and Perimeter of Circle\obj\Debug\net5.0\Area and Perimeter of Circle.csproj.AssemblyReference.cache
+C:\Users\DELL\Documents\C# practice\Area and Perimeter of Circle Calculator\Area and Perimeter of Circle\obj\Debug\net5.0\Area and Perimeter of Circle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Documents\C# practice\Area and Perimeter of Circle Calculator\Area and Perimeter of Circle\obj\Debug\net5.0\Area and Perimeter of Circle.AssemblyInfoInputs.cache
+C:\Users\DELL\Documents\C# practice\Area and Perimeter of Circle Calculator\Area and Perimeter of Circle\obj\Debug\net5.0\Area and Perimeter of Circle.AssemblyInfo.cs
+C:\Users\DELL\Documents\C# practice\Area and Perimeter of Circle Calculator\Area and Perimeter of Circle\obj\Debug\net5.0\Area and Perimeter of Circle.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\C# practice\Area and Perimeter of Circle Calculator\Area and Perimeter of Circle\obj\Debug\net5.0\Area and Perimeter of Circle.dll
+C:\Users\DELL\Documents\C# practice\Area and Perimeter of Circle Calculator\Area and Perimeter of Circle\obj\Debug\net5.0\ref\Area and Perimeter of Circle.dll
+C:\Users\DELL\Documents\C# practice\Area and Perimeter of Circle Calculator\Area and Perimeter of Circle\obj\Debug\net5.0\Area and Perimeter of Circle.pdb
+C:\Users\DELL\Documents\C# practice\Area and Perimeter of Circle Calculator\Area and Perimeter of Circle\obj\Debug\net5.0\Area and Perimeter of Circle.genruntimeconfig.cache
